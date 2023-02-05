@@ -1,0 +1,21 @@
+G. S. S. S. Charitable Foundation
+Akshara Foundation
+World Ayurveda Foundation
+Dhwani Foundation
+The Akshaya Patra Foundation Godown
+Adam Educational and Charitable Trust
+Sheshashraya
+Access
+Cheshire Homes India Bangalore Unit
+Foundation for Excellence India Trust
+Karunashraya
+Mitra Jyothi
+Samarthanam Trust for the Disabled
+Angels Orphanage
+Samarthanam Trust for the Disabled
+SOS Children's Villages of India
+Sree Old Age Home
+Sree Maruthi Charitable Trust
+
+
+{'G. S. S. S. Charitable Foundation': (13.006030000000067, 77.56482000000005), 'Akshara Foundation': (13.009890000000041, 77.65715000000006), 'World Ayurveda Foundation': (13.004230000000064, 77.56924000000004), 'Dhwani Foundation bangalore': (12.934120000000064, 77.61571000000004), 'The Akshaya Patra Foundation Godown': (13.017780000000073, 77.54820000000007), 'Adam Educational and Charitable Trust': (13.017420000000072, 77.59521000000007), 'Sheshashraya': (13.028640000000053, 77.57619000000005), 'Access bangalore': (13.03174000000007, 77.64262000000008), 'Cheshire Homes India Bangalore Unit': (12.959760000000074, 77.64963000000006), 'Foundation for Excellence India Trust': (12.98004000000003, 77.63743000000005), 'Karunashraya': (12.95795000000004, 77.71383000000003), 'Mitra Jyothi': (12.91148000000004, 77.65355000000005), 'Samarthanam Trust for the Disabled': (12.914790000000039, 77.64158000000003), 'Angels Orphanage': (12.987040000000036, 77.60050000000007), "SOS Children's Villages of India": (12.872430000000065, 77.59620000000007), 'Sree Old Age Home': (12.99646000000007, 77.55133000000006), 'Sree Maruthi Charitable Trust': (12.905070000000023, 77.52162000000004)}
